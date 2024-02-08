@@ -3,5 +3,7 @@ accelerate==0.25.0
 datasets==2.14.6
 bitsandbytes==0.41.2.post2
 peft==0.7.1
-peft
+deepspeed==0.12.2
+flash-attn==2.3.6 
 protobuf
+scipy
